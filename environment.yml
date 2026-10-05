@@ -1,0 +1,19 @@
+name: climate-course
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - xarray
+  - netcdf4
+  - dask
+  - bottleneck
+  - cftime
+  - cartopy
+  - seaborn
+  - jupyterlab
